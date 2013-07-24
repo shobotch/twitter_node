@@ -10,5 +10,9 @@
     "jade": "*",
     "oauth": "~0.9.10",
     "byline": "~3.0.1"
+  },
+  "licenses": {
+    "type": "MIT",
+    "url": "../LICENSE.md"
   }
 }
