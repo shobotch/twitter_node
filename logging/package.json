@@ -1,0 +1,14 @@
+{
+  "name": "ktaiweb",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "coffee -bco ./app/ ./src/ && node ./app/server.js"
+  },
+  "dependencies": {
+    "express": "3.3.4",
+    "jade": "*",
+    "oauth": "~0.9.10",
+    "byline": "~3.0.1"
+  }
+}
