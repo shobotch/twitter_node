@@ -9,7 +9,9 @@
     "express": "3.3.4",
     "jade": "*",
     "oauth": "~0.9.10",
-    "byline": "~3.0.1"
+    "byline": "~3.0.1",
+    "coffee": "*",
+    "js2coffee": "*"
   },
   "licenses": {
     "type": "MIT",
